@@ -4,7 +4,7 @@
 
 - I just have started C#, I can also write code in Python, Html, batchfile. 👨‍💻
 
-- Actually, I am making videos on my YouTube channel, you can have a look [righ here](https://www.youtube.com/channel/UCLfboIvl8VrNM3n6D9_QdZg). 🎦
+- Actually, I am making videos on my YouTube channel, you can have a look [righ there](https://www.youtube.com/channel/UCLfboIvl8VrNM3n6D9_QdZg). 🎦
 
 - I play many games as well ! Just like : Roblox, Minecraft, City Car Driving, Hello Nzighbor, Zelda...... 🎮
 
