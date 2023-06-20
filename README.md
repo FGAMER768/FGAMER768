@@ -10,3 +10,12 @@
 
 I just have started coding due to [@STY1001](https://github.com/STY1001), I'm inspired about his project and like them, I just have to say : thanks to him.
 
+### ℹ️ My stats:
+![FGAMER768's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FGAMER768&bg_color=000000&color=##00FFFF&line=##00FFFF&point=ffffff&area=true&hide_border=true)
+
+<h3><img align=left src="https://github-readme-stats.vercel.app/api?username=FGAMER768&bg_color=000000&color=##00FFFF&line=##00FFFF&point=ffffff&area=true&hide_border=true)
+
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs?username=FGAMER768&show_icons=true&layout=compact&theme=dark&title_color=#00FFFF&text_color=#00FFFF&icon_color=#00FFFF&bg_color=000000"/></h3>
+
+
+
