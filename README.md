@@ -15,7 +15,10 @@ I just have started coding due to [@STY1001](https://github.com/STY1001), I'm in
 
 <h3><img align=left src="https://github-readme-stats.vercel.app/api?username=FGAMER768&bg_color=000000&color=##00FFFF&line=##00FFFF&point=ffffff&area=true&hide_border=true"/>
 
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs?username=FGAMER768&show_icons=true&layout=compact&theme=dark&title_color=2F80ED&text_color=FFFFFF&icon_color=FF0000&bg_color=00,000000,000000"/></h3>
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs?
+username=FGAMER768&show_icons=true&layout=compact&theme=dark&title_color=2F80ED&text_color=FFFFFF&icon_color=FF0000&bg_color=00,000000,000000"/></h3>
+
+![FGAMER768's Status](https://lanyard.cnrad.dev/api/647069392055828490?idleMessage=Idle%20or%20AFK&bg=000000&borderRadius=5px&animated=true)
 
 
 
