@@ -1,4 +1,5 @@
 ![Image](https://github.com/FGAMER768/FGAMER768/blob/main/FG_LOGO_Final_Banner01.png)
+![Image](https://github.com/FGAMER768/FGAMER768/blob/main/FGAMER768_Github_Developer_Banner.png)
 
 ### Hello ! I'm a 15 years old new developer
 
