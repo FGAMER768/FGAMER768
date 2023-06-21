@@ -21,7 +21,7 @@ I just have started coding due to [@STY1001](https://github.com/STY1001), I'm in
 
 ### My Status :
 
-![FGAMER768's Status](https://lanyard.cnrad.dev/api/647069392055828490?idleMessage=Idle%20or%20AFK&bg=000000&borderRadius=5px&animated=true)
+![FGAMER768's Status](https://lanyard.cnrad.dev/api/647069392055828490?idleMessage=Online%20or%20Offline&bg=000000&borderRadius=5px&animated=true)
 
 
 
