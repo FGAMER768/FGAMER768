@@ -3,7 +3,7 @@
 
 ### Hello ! I'm a 15 years old new developer
 
-- I just have started C#, I can also write code in Python, Html, batchfile. 👨‍💻
+- I just have started C#, I can also write code in Python, HTML, CSS... 👨‍💻
 
 - Actually, I am making videos on my YouTube channel, you can have a look [righ there](https://www.youtube.com/channel/UCLfboIvl8VrNM3n6D9_QdZg). 🎦
 
