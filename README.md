@@ -18,6 +18,7 @@ I just have started coding due to [@STY1001](https://github.com/STY1001), I'm in
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs?
 username=FGAMER768&show_icons=true&layout=compact&theme=dark&title_color=2F80ED&text_color=FFFFFF&icon_color=FF0000&bg_color=00,000000,000000"/></h3>
 
+### ℹ️ Status:
 [FGAMER768's Status](https://lanyard.cnrad.dev/api/647069392055828490/)
 
 
