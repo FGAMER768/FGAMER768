@@ -1,51 +1,26 @@
-![Image](https://github.com/FGAMER768/FGAMER768/blob/main/FG_LOGO_Final_Banner01.png)
-![Image](https://github.com/FGAMER768/FGAMER768/blob/main/FGAMER768_Github_Developer_Banner.png)
+![FGAMER768 Logo](https://github.com/FGAMER768/FGAMER768/blob/main/FG_LOGO_Final_Banner01.png)
+![FGAMER768 GitHub Banner](https://github.com/FGAMER768/FGAMER768/blob/main/FGAMER768_Github_Developer_Banner.png)
 
-### Hello ! I'm a 15 years old new developer
+## Hello! I'm a 15-year-old new developer.
 
-- I just have started C#, I can also write code in Python, HTML, CSS... 👨‍💻
+- I recently started learning C#, but I can also code in Python, HTML, and CSS. 👨‍💻
 
-- Actually, I am making videos on my YouTube channel, you can have a look [righ there](https://www.youtube.com/channel/UCLfboIvl8VrNM3n6D9_QdZg). 🎦
+- Currently, I create videos on my YouTube channel. Feel free to check it out [here](https://www.youtube.com/channel/UCLfboIvl8VrNM3n6D9_QdZg). 🎦
 
-- I play many games as well ! Just like : Roblox, Minecraft, City Car Driving, Hello Neighbor, Zelda...... 🎮
+- I also enjoy playing various games like Roblox, Minecraft, City Car Driving, Hello Neighbor, Zelda, and more. 🎮
 
-I just have started coding due to [@STY1001](https://github.com/STY1001), I'm inspired about his project and like them, I just have to say : thanks to him.
+I got into coding thanks to [@STY1001](https://github.com/STY1001). I find inspiration in their projects, and I want to express my gratitude to them.
 
-### ℹ️ My stats :
-![FGAMER768's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FGAMER768&bg_color=000000&color=##00FFFF&line=##00FFFF&point=ffffff&area=true&hide_border=true)
+### ℹ️ My Stats:
+![FGAMER768's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FGAMER768&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true)
 
-<h3><img align=left src="https://github-readme-stats.vercel.app/api?username=FGAMER768&bg_color=000000&color=##00FFFF&line=##00FFFF&point=ffffff&area=true&hide_border=true"/>
+<h3><img align="left" src="https://github-readme-stats.vercel.app/api?username=FGAMER768&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" alt="FGAMER768's GitHub Stats" />
 
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs?username=FGAMER768&show_icons=true&layout=compact&theme=dark&title_color=2F80ED&text_color=FFFFFF&icon_color=FF0000&bg_color=00,000000,000000"/></h3>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=FGAMER768&show_icons=true&layout=compact&theme=dark&title_color=2F80ED&text_color=FFFFFF&icon_color=FF0000&bg_color=000000" alt="FGAMER768's Top Languages" /></h3>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br clear="both">
 
-### My Status :
+### My Status:
 
 ![FGAMER768's Status](https://lanyard.cnrad.dev/api/647069392055828490?idleMessage=Online%20or%20Offline&bg=000000&borderRadius=5px&animated=true)
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
 
