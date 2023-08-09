@@ -24,3 +24,10 @@ I got into coding thanks to [@STY1001](https://github.com/STY1001). I find inspi
 
 ![FGAMER768's Status](https://lanyard.cnrad.dev/api/647069392055828490?idleMessage=Online%20or%20Offline&bg=000000&borderRadius=5px&animated=true)
 
+### My tech equipment :
+
+- Computer : HP COMPAQ PRO 6300 MT
+- Smartphone : Xiaomi Redmi Note 7 with custom firmware ( xiaomi.eu )
+- Smartwatch : Amazfit Bip S
+  
+
