@@ -9,7 +9,7 @@
 
 - I also enjoy playing various games like Roblox, Minecraft, City Car Driving, Hello Neighbor, Zelda, and more. 🎮
 
-I got into coding thanks to [@STY1001](https://github.com/STY1001). I find inspiration in their projects, and I want to express my gratitude to them.
+I got into coding thanks to [@STY1001](https://github.com/STY1001). I find inspiration in their projects, and I want to express my gratitude to him.
 
 ### ℹ️ My Stats:
 ![FGAMER768's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FGAMER768&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true)
