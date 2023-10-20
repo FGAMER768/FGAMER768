@@ -1,13 +1,15 @@
 ![FGAMER768 Logo](https://github.com/FGAMER768/FGAMER768/blob/main/FG_LOGO_Final_Banner01.png)
 ![FGAMER768 GitHub Banner](https://github.com/FGAMER768/FGAMER768/blob/main/FGAMER768_Github_Developer_Banner.png)
 
-## Hello! I'm a 15 years old new developer.
+## Hello! I'm a 15 years old developer.
 
 - I recently started learning C#, but I can also code in Python, HTML, and CSS. 👨‍💻
 
 - Currently, I create videos on my YouTube channel. Feel free to check it out [here](https://www.youtube.com/channel/UCLfboIvl8VrNM3n6D9_QdZg). 🎦
 
 - I also enjoy playing various games like Roblox, Minecraft, City Car Driving, Hello Neighbor, Zelda, and more. 🎮
+
+- I actually took a break because I have to study this year, I will come back 11 months later!
 
 I got into coding thanks to [@STY1001](https://github.com/STY1001). I find inspiration in their projects, and I want to express my gratitude to him.
 
