@@ -14,13 +14,16 @@
 I got into coding thanks to [@STY1001](https://github.com/STY1001). I find inspiration in their projects, and I want to express my gratitude to him.
 
 ### ℹ️ My Stats:
-![FGAMER768's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FGAMER768&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true)
 
-<h3><img align="left" src="https://github-readme-stats.vercel.app/api?username=FGAMER768&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true" alt="FGAMER768's GitHub Stats" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=FGAMER768&show_icons=true&layout=compact&theme=dark&title_color=2F80ED&text_color=FFFFFF&icon_color=FF0000&bg_color=000000" alt="FGAMER768's Top Languages" /></h3>
-
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FGAMER768&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&radius=8&height=300" width="100%">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FGAMER768&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&include_all_commits=true&count_private=true&card_width=925&layout=compact" width="100%">
+</div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FGAMER768&show_icons=true&count_private=true&bg_color=000000&color=00FFFF&line=00FFFF&point=ffffff&card_width=450" width="49.5%">
+  </div>
 
 ### My Status:
 
