@@ -9,10 +9,6 @@
 
 - I also enjoy playing various games like Roblox, Minecraft, City Car Driving, Hello Neighbor, Zelda, and more. 🎮
 
-- I actually took a break because I have to study this year, I will come back 11 months later!
-
-I got into coding thanks to [@STY1001](https://github.com/STY1001). I find inspiration in their projects, and I want to express my gratitude to him.
-
 ### ℹ️ My Stats:
 
 <div align="center">
