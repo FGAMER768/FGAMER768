@@ -2,49 +2,73 @@
   <img src="https://raw.githubusercontent.com/FGAMER768/FGAMER768/refs/heads/main/FGAMER768_BANNER.png" width="100%" alt="Banner"/>
 </div>
 
+<br><br>
+
 <div align="center">
 
-## 💡 Product Lead & Experience Creator
-**Simplifying the complex. Revealing the essential.**
+# Clarity by design.
+**Product Lead • UI/UX Design • AI Orchestration**
 
-At the intersection of Design, Technology, and Human Experience 🌐<br>
-Product Vision • UI/UX Design • AI Orchestration • Prototyping
+*Making the complex invisible. Elevating the experience.*
 
-[✨ Explore my universe](https://github.com/FGAMER768)
+[Explore my universe](https://github.com/FGAMER768) ↗
 
 </div>
 
----
+<br><br><br>
 
-### My Philosophy
+### Featured Projects.
 
-My role isn't to write every single line of code, but to bring a vision to life. From a blank canvas to the final release, I orchestrate the entire lifecycle of a project to create seamless, intuitive, and meaningful experiences. 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>PresetStore.</h3>
+      <p><b>The ultimate creator hub.</b><br>A seamless platform built to share, discover, and elevate your visual experiences.</p>
+      <a href="https://github.com/ChromaEnhance/PresetStore">Explore project ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>VoltAir.</h3>
+      <p><b>Hardware intelligence. Software precision.</b><br>A sophisticated architecture designed for absolute environmental monitoring and performance.</p>
+      <a href="https://github.com/MarwanFr/VoltAir">Explore project ↗</a>
+    </td>
+  </tr>
+</table>
 
-* **📐 Vision & Architecture:** Defining the core requirements, selecting the right frameworks, and shaping the product roadmap.
-* **🎨 Design & Experience (UI/UX):** Crafting interactive prototypes where every detail is thoughtfully designed around the user.
-* **🤝 Orchestration & Synergy:** I collaborate with talented developers and pilot Artificial Intelligence. I guide the AI, integrate its code, and refine the output to ensure the final product always meets our high standards.
-* **🎬 Storytelling & Launch:** Shaping the marketing strategy, directing videos, and crafting immersive guides to empower the user from day one.
+<br><br>
 
-> *My technical foundation (HTML, CSS, JS, TS, Python, C, C++) allows me to speak the same language as both machines and engineers, serving as the perfect bridge between creative design and technical execution.*
+### Ecosystem & Toolkit.
 
----
+![After Effects](https://img.shields.io/badge/After_Effects-000000?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+<br>
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![VMWare](https://img.shields.io/badge/VMWare-000000?style=for-the-badge&logo=vmware&logoColor=white)
+
+<br><br>
+
+### Metrics.
 
 <div align="center">
-  <!-- Top Languages Card -->
   <a href="https://github.com/FGAMER768">
-    <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FGAMER768&layout=compact&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=0071e3&bg_color=050505&hide_border=false&border_color=424245&border_radius=12" />
+    <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FGAMER768&layout=compact&langs_count=8&title_color=ffffff&text_color=a1a1a6&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=12&hide=ShaderLab,html,css" />
   </a>
-  
-  <!-- Stats Card -->
   <a href="https://github.com/FGAMER768">
-    <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=FGAMER768&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=0071e3&bg_color=050505&hide_border=false&border_color=424245&border_radius=12" />
+    <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=FGAMER768&show_icons=true&title_color=ffffff&text_color=a1a1a6&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=12&count_private=true" />
   </a>
 </div>
 
----
+<br><br><br>
 
 <div align="center">
-  
-*"Technology is at its best when it fades into the background, leaving only the experience."*
+
+**Connect.**<br>
+[Instagram Dev](https://www.instagram.com/fgamer768.dev/) ｜ [Instagram PresetStore](https://www.instagram.com/presetstore.app) ｜ [TikTok](http://tiktok.com/@presetstore)
+
+<br><br><br>
+
+*"The best technology is the one that fades away."*
 
 </div>
