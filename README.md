@@ -27,15 +27,17 @@ My role isn't to write every single line of code, but to bring a vision to life.
 
 > *My technical foundation (HTML, CSS, JS, TS, Python, C, C++) allows me to speak the same language as both machines and engineers, serving as the perfect bridge between creative design and technical execution.*
 
+---
+
 <div align="center">
   <!-- Top Languages Card -->
   <a href="https://github.com/FGAMER768">
-    <img height="165" src="https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api/top-langs/?username=FGAMER768&layout=compact&langs_count=8&hide=ShaderLab,html,css&title_color=ffffff&text_color=a1a1a6&icon_color=0071e3&bg_color=00000000&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FGAMER768&layout=compact&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=0071e3&bg_color=050505&hide_border=false&border_color=424245&border_radius=12" />
   </a>
   
   <!-- Stats Card -->
   <a href="https://github.com/FGAMER768">
-    <img height="165" src="https://github-readme-stats-hugos-projects-8faba13c.vercel.app/api?username=FGAMER768&hide=contribs&show=reviews&show_icons=true&title_color=ffffff&text_color=a1a1a6&icon_color=0071e3&bg_color=00000000&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=FGAMER768&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=0071e3&bg_color=050505&hide_border=false&border_color=424245&border_radius=12" />
   </a>
 </div>
 
