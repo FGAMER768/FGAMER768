@@ -29,7 +29,7 @@ Making the complex invisible. Elevating the experience.
     <td width="50%" valign="top">
       <h3>PresetStore</h3>
       <p>The ultimate creator hub.<br>
-      Share, discover, and elevate your visual work — in one seamless platform.</p>
+      Share, discover, and elevate your visual work - in one seamless platform.</p>
       <a href="https://github.com/ChromaEnhance/PresetStore">→ Explore</a>
     </td>
     <td width="50%" valign="top">
